@@ -37,17 +37,14 @@ Cette table permet également de stocker la quantité de chaque ingrédient util
 
 ## Structure du projet
 
-tifosi/
-│
-├── sql/
-│ ├── 01_create_database.sql
-│ ├── 02_insert_data.sql
-│ ├── 03_insert_ingredient.sql
-│ ├── 04_insert_focaccia.sql
-│ ├── 05_insert_focaccia_ingredient.sql
-│ └── 06_test_queries.sql
-│
-└── README.md
+tifosi/sql/...
+...01_create_database.sql
+...02_insert_data.sql
+...03_insert_ingredient.sql
+...04_insert_focaccia.sql
+...05_insert_focaccia_ingredient.sql
+...06_test_queries.sql
+README.md
 
 ## Installation de la base de données
 
